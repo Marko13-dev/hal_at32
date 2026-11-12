@@ -16,5 +16,5 @@
 #endif
 
 #if defined(CONFIG_SOC_SERIES_AT32F403A_407)
-#include <at32f403A_407_misc.h>
+#include <at32f403a_407_misc.h>
 #endif
